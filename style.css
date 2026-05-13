@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+html{
+    font-size: 103%
+}
+body {
+  background-color: rgba(0, 148, 183, 0.63);
+color: #9b0172;
+font-family: "verdana Pro", Verdana,sans-serif,
+}
+img, video{
+    max-width: 100%;
+    height: auto;
+}
+    
+    
+    
+nav ul {
+    list-style:none;
+    padding: 0;
+    }
+nav li{
+  display: inline-block;
+  margin-right: 69px;
+}
+h1 {
+    color: rgba(0, 254, 109, 0.8);
+    font-size: 3rem;
+    font-family: "Carter One", system-ui;
+}
+p{
+    font-size: larger;
+    @import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Permanent+Marker&display=swap');
+     font-family: "Carter One", system-ui;
+}
+div{
+    font-size: 4rem
+}
+.imgList{
+      list-style:none;
+    padding: 0;
+}
